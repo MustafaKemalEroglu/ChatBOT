@@ -1,0 +1,10 @@
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\bin\Debug\ChatBOT.exe.config
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\bin\Debug\ChatBOT.exe
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\bin\Debug\ChatBOT.pdb
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.FormAboutBox.resources
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.FormMain.resources
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.FormSettings.resources
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.Properties.Resources.resources
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.csproj.GenerateResource.cache
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.exe
+C:\Users\Mustafa EROĞLU\Documents\GitHub\[Csharp]\ChatBOT\ChatBOT\obj\Debug\ChatBOT.pdb
